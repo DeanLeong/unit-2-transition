@@ -2,7 +2,14 @@
 
 ## Overview
 
-Congratulations! You've just cleared Unit 1. Before we get to Unit 2, here are some helpful resources to help ground the stuff you'll need to move forward, as well as give you a look as to what we're learning. The only required part of this is under the [requirements](#requirements) section. Everything else is helpful and optional reading.
+Congratulations! You've just cleared Unit 1. Before we get to Unit 2, here are some helpful resources to help ground the stuff you'll need to move forward, as well as give you a look as to what we're learning. The only required part of this is under the [requirements](#requirements) section. Everything else is helpful tips and optional reading.
+
+## TL:DR;
+
+- [Requirements](#requirements)
+- [Developing Great Habits for the Industry](#developing-great-habits-for-the-industry)
+- [Re-establishing Concepts](#re-establishing-concepts)
+- [Reading Ahead](#reading-ahead)
 
 ## Requirements
 
@@ -58,6 +65,12 @@ Feeling weird about Git? Check out these resources for additional information an
 - [A Gentle Introduction to Git and GitHub](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
 
 ## Re-establishing Concepts
+
+#### Eloquent JavaScript
+
+If there's one definitive textbook for learning JavaScript (both client and server side), it's Eloquent JavaScript. Eloquent JavaScript (also known as EJS) is a free online textbook (which is also available in print) that covers a lot of what we've done in this unit. It's available at the link below! I highly encourage reading it when you have a few free moments here and there, as it can help ground the ideas and syntax that we've worked with so far.
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 #### Array Methods
 
