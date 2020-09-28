@@ -37,7 +37,7 @@ fast -u
 
 #### Skill Assessment
 
-[Create a new issue ticket](https://git.generalassemb.ly/sei-nyc-dragonflies/unit-2-transition/issues) on this repository, and rate your comfort with the following subjects from 1 (I don't know where to start) to 5 (I could teach this). If your answer is a 3 or below, add a blurb about what you feel you don't understand.
+[Create a new issue ticket](https://git.generalassemb.ly/sei-nyc-phoenix/unit-2-transition/issues) on this repository, and rate your comfort with the following subjects from 1 (I don't know where to start) to 5 (I could teach this). If your answer is a 3 or below, add a blurb about what you feel you don't understand.
 
 - Arrays
 - Objects
